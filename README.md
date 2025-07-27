@@ -1,8 +1,9 @@
-## NO ES EL JUEGO OFICIAL "FLOW FREE" - RÉPLICA CREADA CON FINES ACADÉMICOS
+## **Aviso Legal**
 
 <!--- ![BANNER](images/banner-flow-free.jpeg) -->
 
-Flow Free es un adictivo juego de puzzles donde conectas círculos del mismo color con tuberías sin que se crucen. Se trata de una **réplica** del juego [Flow Free de Big Duck Games](https://www.bigduckgames.com/flowfree), creada con fines académicos para la asignatura de Desarrollo de Videojuegos Móviles.
+> Este proyecto es una implementación independiente y no oficial inspirada en el juego [*Flow Free*](https://www.bigduckgames.com/flowfree). No está afiliado, aprobado ni relacionado con Big Duck Games, LLC, titular de la marca registrada *Flow Free*.  
+> Este proyecto fue creado únicamente con fines educativos como parte de una asignatura universitaria.
 
 ## Características técnicas
 
@@ -27,11 +28,12 @@ Tocar y arrastrar para conectar círculos con tuberías, seleccionar los niveles
 ---
 ---
 
-## NOT THE OFFICIAL “FLOW FREE” GAME - A REPLICA CREATED FOR ACADEMIC PURPOSES
+## **Legal Disclaimer**
 
 <!---  ![BANNER](images/banner-flow-free.jpeg) -->
 
-Flow Free is an addictive puzzle game where you connect circles of the same color with pipes without crossing them. It is a **replica** of the game [Flow Free by Big Duck Games](https://www.bigduckgames.com/flowfree), created with academic purposes for the Mobile Game Development subject.
+> This project is an independent, unofficial implementation inspired by the game [*Flow Free*](https://www.bigduckgames.com/flowfree). It is not affiliated with, endorsed by, or connected to Big Duck Games, LLC, the trademark owner of *Flow Free*.  
+> This project was created solely for educational purposes as part of a university course assignment.
 
 ## Technical features
 
