@@ -2,7 +2,7 @@
 
 <!--- ![BANNER](images/banner-flow-free.jpeg) -->
 
-> Este proyecto es una implementación independiente y no oficial inspirada en el juego [*Flow Free*](https://www.bigduckgames.com/flowfree). No está afiliado, aprobado ni relacionado con Big Duck Games, LLC, titular de la marca registrada *Flow Free*.  
+> Este proyecto es una implementación independiente y no oficial. No está afiliado, aprobado ni relacionado con [Big Duck Games, LLC](https://www.bigduckgames.com/flowfree).   
 > Este proyecto fue creado únicamente con fines educativos como parte de una asignatura universitaria.
 
 ## Características técnicas
@@ -32,7 +32,7 @@ Tocar y arrastrar para conectar círculos con tuberías, seleccionar los niveles
 
 <!---  ![BANNER](images/banner-flow-free.jpeg) -->
 
-> This project is an independent, unofficial implementation inspired by the game [*Flow Free*](https://www.bigduckgames.com/flowfree). It is not affiliated with, endorsed by, or connected to Big Duck Games, LLC, the trademark owner of *Flow Free*.  
+> This project is an independent, unofficial implementation. It is not affiliated with, endorsed by, or connected to [Big Duck Games, LLC](https://www.bigduckgames.com/flowfree).  
 > This project was created solely for educational purposes as part of a university course assignment.
 
 ## Technical features
