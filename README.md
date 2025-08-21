@@ -15,7 +15,7 @@
 - Implementación de **sistemas de progreso y guardado** del jugador
 - Estructura de niveles organizada en categorias y paquetes con **ScriptableObjects**
 
-![GAMEPLAY](/images/flow-free-gameplay.jpg)
+<!--- ![GAMEPLAY](/images/flow-free-gameplay.jpg) -->
 
 ## Gameplay
 
@@ -45,7 +45,7 @@ Tocar y arrastrar para conectar círculos con tuberías, seleccionar los niveles
 - Implementation of **progress and saving systems** for the player
 - Level structure organized into categories and packages with **ScriptableObjects**
 
-![GAMEPLAY](/images/flow-free-gameplay.jpg)
+<!--- ![GAMEPLAY](/images/flow-free-gameplay.jpg) -->
 
 ## Gameplay
 
